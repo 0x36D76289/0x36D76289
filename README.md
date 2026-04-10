@@ -2,7 +2,7 @@
 
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=Qui+suis-je+%3F;0x36D76289+%2F+Allay;Cypherpunk+%C2%B7+Systems+%C2%B7+Security;42+Paris+student"
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=Qui+suis-je+%3F;0x36D76289+%2F;Cypherpunk+%C2%B7+Systems+%C2%B7+Security;42+Paris+student"
     alt="Identity"
   >
 </p>
