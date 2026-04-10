@@ -37,7 +37,7 @@ Etudiant a **[42 Paris](https://github.com/0x36D76289)**, passionne par le bas n
 
 | project                                                                | description                                               | stack                     |
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------- |
-| [**kfs**](https://github.com/0x36D76289/kfs)                           | kernel from scratch - GDT, IDT, paging, memory management | `C` `x86 ASM`             |
+| [**kfs**](https://github.com/0x36D76289/kfs)                           | kernel from scratch - GDT, IDT, paging, memory management | `Rust` `x86 ASM`          |
 | [**ft_ping**](https://github.com/0x36D76289/ft_ping)                   | raw socket ping reimplementation with ICMP                | `C` `sockets`             |
 | [**woody_woodpacker**](https://github.com/0x36D76289/woody_woodpacker) | ELF binary packer - code injection and encryption         | `C` `ELF`                 |
 | [**ft_otp**](https://github.com/0x36D76289/ft_otp)                     | TOTP/HOTP implementation from RFC 6238                    | `C`                       |
