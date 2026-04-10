@@ -66,8 +66,8 @@ tools        GDB · Ghidra · Wireshark · nmap
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x36D76289&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x36D76289&theme=github_dark)
+![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x36D76289&theme=github_dark)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint" style="border-radius: 10px;" />
 
@@ -75,7 +75,7 @@ tools        GDB · Ghidra · Wireshark · nmap
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-snake-dark.svg)
 
 </div>
 
