@@ -2,7 +2,7 @@
 
 <p>
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=Qui+suis-je+%3F;0x36D76289+%2F;Cypherpunk+%C2%B7+Systems+%C2%B7+Security;42+Paris+student"
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=Qui+suis-je+%3F;0x36D76289;Cypherpunk+%C2%B7+Systems+%C2%B7+Security;42+Paris+student"
     alt="Identity"
   >
 </p>
@@ -10,8 +10,8 @@
 **`cypherpunk · systems · security`**
 
 [![PGP](https://img.shields.io/badge/PGP-75E9F067AFB3071D-blue?style=flat-square&logo=gnu-privacy-guard)](https://keys.openpgp.org)
-[![42](https://img.shields.io/badge/42-Paris-000000?style=flat-square&logo=42)](https://github.com/celestefr)
-[![Mail](https://img.shields.io/badge/protonmail-celestef.pro-6D4AFF?style=flat-square&logo=protonmail)](mailto:celestef.pro@protonmail.com)
+[![42](https://img.shields.io/badge/42-Paris-000000?style=flat-square&logo=42)](https://github.com/0x36D76289)
+[![Mail](https://img.shields.io/badge/protonmail-private-6D4AFF?style=flat-square&logo=protonmail)](https://proton.me/mail)
 [![Location](https://img.shields.io/badge/Paris-France-blue?style=flat-square)](https://en.wikipedia.org/wiki/Paris)
 
 <p>
@@ -46,7 +46,7 @@ Etudiant a **[42 Paris](https://github.com/0x36D76289)**, passionne par le bas n
 | [**ft_transcendence**](https://github.com/0x36D76289/ft_transcendence) | fullstack web platform - Pong, 2FA, tournament            | `Django` `React` `Docker` |
 | [**minishell**](https://github.com/0x36D76289/minishell)               | POSIX shell reimplementation with pipes and redirections  | `C`                       |
 
-> 42 cursus projects: [github.com/celestefr](https://github.com/celestefr)
+> 42 cursus projects: [github.com/0x36D76289](https://github.com/0x36D76289)
 
 ---
 
@@ -84,7 +84,7 @@ tools        GDB · Ghidra · Wireshark · nmap
 ## contact
 
 ```text
-email     celestef.pro@protonmail.com  (PGP preferred)
+email     private (PGP preferred)
 pgp       75E9 F067 AFB3 071D 513E BCE7 32A9 148D 044E BD21
 ```
 
