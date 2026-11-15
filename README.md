@@ -1,93 +1,90 @@
 <div align="center">
 
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=760&height=50&lines=Qui+suis-je+%3F;0x36D76289;Cypherpunk+%C2%B7+Systems+%C2%B7+Security;42+Paris+student"
-    alt="Identity"
-  >
-</p>
+<img src="./assets/banner.svg" alt="0x36D76289 — cypherpunk · systems · security" width="100%">
 
-**`cypherpunk · systems · security`**
+<br>
 
-[![PGP](https://img.shields.io/badge/PGP-75E9F067AFB3071D-blue?style=flat-square&logo=gnu-privacy-guard)](https://keys.openpgp.org)
-[![42](https://img.shields.io/badge/42-Paris-000000?style=flat-square&logo=42)](https://github.com/0x36D76289)
-[![Mail](https://img.shields.io/badge/protonmail-private-6D4AFF?style=flat-square&logo=protonmail)](https://proton.me/mail)
-[![Location](https://img.shields.io/badge/Paris-France-blue?style=flat-square)](https://en.wikipedia.org/wiki/Paris)
+[![PGP](https://img.shields.io/badge/PGP-32A9148D044EBD21-39ff88?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0a0d0a)](https://keys.openpgp.org/search?q=75E9F067AFB3071D513EBCE732A9148D044EBD21)
+[![42 Paris](https://img.shields.io/badge/42-Paris-ffffff?style=for-the-badge&logo=42&logoColor=white&labelColor=0a0d0a)](https://42.fr)
+[![Proton](https://img.shields.io/badge/mail-private-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0a0d0a)](#-contact)
+[![Location](https://img.shields.io/badge/Paris-France-00d1ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0d0a)](https://en.wikipedia.org/wiki/Paris)
 
-<p>
-  <img src="https://i.pinimg.com/originals/df/c9/de/dfc9de58f31107dea5d340e7dcecc362.gif" alt="Coding" style="border-radius: 10px;">
-</p>
+<img src="./assets/coding.gif" alt="Coding" width="480">
 
 </div>
 
----
-
-## whoami
+## `$ whoami`
 
 ```sh
-$ cat /etc/passwd | grep 0x36D76289
+$ grep 0x36D76289 /etc/passwd
 0x36D76289:x:42:42:cypherpunk geek who loves code:/home/0x36D76289:/bin/zsh
 ```
 
-Etudiant a **[42 Paris](https://github.com/0x36D76289)**, passionne par le bas niveau, les outils de securite, et les projets systems qui demandent de comprendre ce qui se passe vraiment sous le capot.
+Student at **[42 Paris](https://42.fr)**, into low-level programming, security tooling, and systems
+projects that require understanding what really happens under the hood.
 
----
+- 🦀 currently hacking on **[kfs](https://github.com/0x36D76289/kfs)**, a kernel from scratch in Rust
+- 🔬 interested in binary analysis, ELF internals, and network protocols
+- 🔐 privacy first: PGP preferred, see [contact](#-contact)
 
-## featured projects
+## `$ ls ~/projects`
 
-| project                                                                | description                                               | stack                     |
-| ---------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------- |
-| [**kfs**](https://github.com/0x36D76289/kfs)                           | kernel from scratch - GDT, IDT, paging, memory management | `Rust` `x86 ASM`          |
-| [**ft_ping**](https://github.com/0x36D76289/ft_ping)                   | raw socket ping reimplementation with ICMP                | `C` `sockets`             |
-| [**woody_woodpacker**](https://github.com/0x36D76289/woody_woodpacker) | ELF binary packer - code injection and encryption         | `C` `ELF`                 |
-| [**ft_otp**](https://github.com/0x36D76289/ft_otp)                     | TOTP/HOTP implementation from RFC 6238                    | `C`                       |
-| [**Arachnida**](https://github.com/0x36D76289/Arachnida)               | web scraper and metadata extractor (OSINT tooling)        | `Python`                  |
-| [**malloc**](https://github.com/0x36D76289/malloc)                     | libc malloc reimplementation                              | `C`                       |
-| [**ft_transcendence**](https://github.com/0x36D76289/ft_transcendence) | fullstack web platform - Pong, 2FA, tournament            | `Django` `React` `Docker` |
-| [**minishell**](https://github.com/0x36D76289/minishell)               | POSIX shell reimplementation with pipes and redirections  | `C`                       |
+| project | what | stack |
+| --- | --- | --- |
+| [**kfs**](https://github.com/0x36D76289/kfs) | kernel from scratch: GDT, IDT, paging, memory management | `Rust` `x86 ASM` |
+| [**woody_woodpacker**](https://github.com/0x36D76289/woody_woodpacker) | ELF binary packer: code injection and encryption | `C` `ELF` |
+| [**malloc**](https://github.com/0x36D76289/malloc) | libc malloc reimplementation | `C` |
+| [**ft_ping**](https://github.com/0x36D76289/ft_ping) | raw socket ping reimplementation with ICMP | `C` `sockets` |
+| [**ft_otp**](https://github.com/0x36D76289/ft_otp) | TOTP/HOTP implementation (RFC 4226 / 6238) | `C` |
+| [**minishell**](https://github.com/0x36D76289/minishell) | POSIX shell with pipes and redirections | `C` |
+| [**Arachnida**](https://github.com/0x36D76289/Arachnida) | web scraper and metadata extractor (OSINT) | `Python` |
+| [**ft_transcendence**](https://github.com/0x36D76289/ft_transcendence) | fullstack web platform: Pong, 2FA, tournaments | `Django` `React` `Docker` |
 
-> 42 cursus projects: [github.com/0x36D76289](https://github.com/0x36D76289)
+<sub>all repositories → [github.com/0x36D76289?tab=repositories](https://github.com/0x36D76289?tab=repositories)</sub>
 
----
+## `$ cat ~/.stack`
 
-## stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,py,bash,linux&theme=dark" alt="Languages">
+<br>
+<img src="https://skillicons.dev/icons?i=docker,nginx,django,react,git,vim&theme=dark" alt="Tools">
+
+</div>
 
 ```text
-languages    C · C++ · Python · Bash · x86 ASM
 security     OSINT · binary analysis · network protocols · ELF
-systems      memory management · kernel dev · sockets · IPC
-web          Django · React · Docker · nginx
-tools        GDB · Ghidra · Wireshark · nmap
+systems      memory management · kernel dev · sockets · IPC · x86 ASM
+tools        GDB · Ghidra · Wireshark · nmap · QEMU
 ```
 
----
-
-## stats
+## `$ git log --stat`
 
 <div align="center">
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x36D76289&theme=github_dark)
-![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x36D76289&theme=github_dark)
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint" style="border-radius: 10px;" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="170">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" height="170">
+
+<img src="https://streak-stats.demolab.com/?user=0x36D76289&theme=dark&hide_border=true&background=0a0d0a&ring=39ff88&fire=39ff88&currStreakLabel=39ff88" alt="Streak stats">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## contact
+## `$ gpg --fingerprint` <a id="-contact"></a>
 
 ```text
-email     private (PGP preferred)
-pgp       75E9 F067 AFB3 071D 513E BCE7 32A9 148D 044E BD21
+email     private, ask for it (PGP preferred)
+pgp       75E9 F067 AFB3 071D 513E  BCE7 32A9 148D 044E BD21
+keyserver https://keys.openpgp.org
 ```
 
-<div align="center">
-
-</div>
+<div align="center"><sub>stats regenerated daily by GitHub Actions</sub></div>
